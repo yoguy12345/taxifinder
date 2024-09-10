@@ -1,2 +1,2 @@
 # taxifinder
-Finds quickest path to pick up multiple passenge
+Finds quickest path to pick up multiple passengers.
